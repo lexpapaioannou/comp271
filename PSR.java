@@ -63,7 +63,6 @@ public class PSR {
 						System.out.println("You Win, Scissors beats Paper.");
 					}
 				}
-				//Missing entire logic here, just a hint
 			}
 		}
 	}
