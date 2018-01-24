@@ -5,7 +5,7 @@ This is a very basic Paper Scissors Rock game.  The intent of this program was t
 
 This program works by asking the user to choose between Paper, Scissors, or Rock.  The program then utilized the random class to randomly pick a number 0 through 2, each corresponding with either Paper, Scissors or Rock.  The program outputs whether or not the user won, how they won, or if it was a draw.  The user can quit by pressing 'q' at the start of the match.
 
-#License 
+# License 
 
 Copyright 2018 Alexander Papaioannou
 
